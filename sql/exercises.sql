@@ -26,7 +26,13 @@ select * from actor;
 # rental_duration       Exists in film table.
 # rental_rate           Exists in film table.
 # total_rental_cost     rental_duration * rental_rate
-
+SELECT
+    title,
+    description,
+    rental_duration,
+    rental_rate,
+    rental_duration * rental_rate as total_rental_cost
+FROM film;
 
 # ---------------------------------------------------------#
 
@@ -177,4 +183,3 @@ select * from actor;
 
 
 # 9f. Select the first_name, last_name, address, address2, city name, district, and postal code columns from the staff table, performing 2 left joins with the address table then the city table to get the address and city related columns.
-
