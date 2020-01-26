@@ -1,9 +1,9 @@
 # DB100-MySQL-Sakila
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-MySQL Sakila example database exercise to learn query statements, operators, clauses, and joins.
 
-Please feel free to analyze the project by looking through the file structure as there is nothing to 
-view in a web browser for this project. 
+MySQL Sakila database querying exercise project for statements, operators, clauses, and joins.
 
-Thank you, Miles Mickelson
+#### Please feel free to review the code in this repository as there is no front end feature to visualize.
 
+* **Thank you**, ***-Miles Mickelson***
