@@ -7,7 +7,7 @@
     "test": "mocha --colors **/*.spec.js --exit"
   },
   "devDependencies": {
-    "ajv": "^6.9.1",
+    "ajv": "^6.12.3",
     "chai": "^3.5.0",
     "chai-as-promised": "^6.0.0",
     "chai-sorted": "^0.1.0",
